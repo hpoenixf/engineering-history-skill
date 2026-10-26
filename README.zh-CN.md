@@ -4,7 +4,6 @@
 
 包含可独立复制的 Agent Skill 和无依赖 Node CLI。使用 Node 26.11.1–26.x，无模型调用、数据库或账户配置。
 
-
 **技术文章：** [文档不是给 Agent 全部读完的：工程知识治理与开源 History Skill](https://hpoenixf.github.io/eff-agent-article/articles/027-agent-context-document-history)（[English](https://hpoenixf.github.io/eff-agent-article/en/articles/027-agent-context-document-history)）。正文介绍四层 History 的设计动机、Skill 使用及人工内容保护。
 
 ## 先运行
