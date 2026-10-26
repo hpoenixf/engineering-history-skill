@@ -6,6 +6,9 @@ Turn repeated development activity into a small, traceable body of engineering k
 
 Requires Node **26.11.1–26.x**. No runtime dependencies, model calls, account connection or database.
 
+
+**Engineering walkthrough:** [On-Demand Knowledge, Engineering History and the History Skill](https://hpoenixf.github.io/eff-agent-article/en/articles/027-agent-context-document-history) ([中文](https://hpoenixf.github.io/eff-agent-article/articles/027-agent-context-document-history)). The article shows how candidates, canonical decisions and protected summaries fit into a wider engineering knowledge lifecycle.
+
 ## Try the CLI
 
 ```sh
