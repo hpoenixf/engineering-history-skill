@@ -1,0 +1,6 @@
+node_modules/
+.work/
+*.tgz
+coverage/
+.DS_Store
+examples/changes/example/verify.md

@@ -1,0 +1,35 @@
+{
+  "name": "engineering-history-skill",
+  "version": "0.1.0",
+  "description": "A portable Agent Skill and CLI for evidence-backed engineering history",
+  "type": "module",
+  "license": "MIT",
+  "author": "hpoenixf",
+  "engines": {
+    "node": ">=26.11.1 <27"
+  },
+  "bin": {
+    "engineering-history": "bin/engineering-history.mjs"
+  },
+  "files": [
+    "bin",
+    "skills",
+    "examples",
+    "README.md",
+    "README.zh-CN.md",
+    "LICENSE",
+    "NOTICE.md",
+    "CHANGELOG.md"
+  ],
+  "scripts": {
+    "test": "node --test test/*.test.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hpoenixf/engineering-history-skill.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hpoenixf/engineering-history-skill/issues"
+  },
+  "homepage": "https://github.com/hpoenixf/engineering-history-skill#readme"
+}
